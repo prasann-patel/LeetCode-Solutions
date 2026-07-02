@@ -20,3 +20,19 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 - Hard: 0
 
 ⭐ I'll keep updating this repository as I solve more problems.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+<!---LeetCode Topics End-->
