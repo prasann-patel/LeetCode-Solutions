@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,28 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
