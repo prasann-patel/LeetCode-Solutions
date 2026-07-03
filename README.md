@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -60,4 +61,12 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
