@@ -30,11 +30,13 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 | [0014-longest-common-prefix](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0088-merge-sorted-array](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -103,4 +105,8 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
