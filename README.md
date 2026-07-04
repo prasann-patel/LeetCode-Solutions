@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -77,4 +78,16 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
