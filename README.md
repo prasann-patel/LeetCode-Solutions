@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 | ------- |
 | [0011-container-with-most-water](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [3620-network-recovery-pathways](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
