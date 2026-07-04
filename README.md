@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -90,4 +91,12 @@ This repository contains my solutions to LeetCode problems in C++, documenting m
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/prasann-patel/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
